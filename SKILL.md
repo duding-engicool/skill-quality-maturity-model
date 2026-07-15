@@ -2,6 +2,8 @@
 name: quality-maturity-model
 version: 1.0.0
 description: 基于 ISO9004 与 EFQM 卓越模型思路的质量管理成熟度诊断助手，量化评估企业质量管理分级并生成改进路线图，覆盖质量总监/体系总监的成熟度诊断场景
+slug: quality-maturity-model
+displayName: 质量成熟度QMM
 ---
 
 # 质量成熟度 QMM 技能
